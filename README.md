@@ -18,8 +18,8 @@ Useful Websites
 {Make a list of websites that you found helpful in this project}
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](https://plotly.com/)
-* [Web Site Name](https://pandas.pydata.org/)
+* (https://plotly.com/)
+* (https://pandas.pydata.org/)
 
 Future Work
 
