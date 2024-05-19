@@ -7,6 +7,7 @@ Just want to see the zip codes that have the highest sale prices
 {Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the data set, the questions and answers, the code running and a walkthrough of the code.}
 
 Software Demo Video
+https://www.youtube.com/watch?v=QIgFMnRZkP0&t=175s&ab_channel=jserr37
 Data Analysis Results
 
 {Count of all counties in hawaii, top 5 highest usd values in Hawaii}
